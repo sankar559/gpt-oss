@@ -92,7 +92,7 @@ class Program
 ```
 ---
 
-## Next Steps
+## 📈 Next Steps
 - Experiment with different prompts and workloads
 - Integrate GPT-OSS into your existing C# apps
 - Explore gpt-oss-120b for larger-scale projects
