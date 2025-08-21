@@ -55,6 +55,7 @@ Running GPT-OSS locally unlocks:
 ## ⚡ Using GPT-OSS with C#
 Here’s a minimal C# console app to interact with GPT-OSS via Ollama:
 
+<code>
 ```csharp
 using System;
 using System.Diagnostics;
@@ -83,6 +84,7 @@ class Program
         Console.WriteLine(output);
     }
 }
+</code>
 
 ## Next Steps
 - Experiment with different prompts and workloads
