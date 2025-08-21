@@ -83,12 +83,12 @@ class Program
 }
 
 ## Next Steps
-Experiment with different prompts and workloads
-Integrate GPT-OSS into your existing C# apps
-Explore gpt-oss-120b for larger-scale projects
-Fine-tune GPT-OSS for domain-specific tasks
+- Experiment with different prompts and workloads
+- Integrate GPT-OSS into your existing C# apps
+- Explore gpt-oss-120b for larger-scale projects
+- Fine-tune GPT-OSS for domain-specific tasks
 
 ## 📌 Resources
-Official OpenAI GPT-OSS Announcement ([https://openai.com/](https://openai.com/index/introducing-gpt-oss/))
-Ollama Documentation (https://ollama.com/)
-.NET Documentation (https://learn.microsoft.com/en-us/dotnet/)
+- Official OpenAI GPT-OSS Announcement ([https://openai.com/](https://openai.com/index/introducing-gpt-oss/))
+- Ollama Documentation (https://ollama.com/)
+- .NET Documentation (https://learn.microsoft.com/en-us/dotnet/)
