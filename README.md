@@ -46,11 +46,17 @@ Running GPT-OSS locally unlocks:
 ## ⚡ Quick Setup with Ollama
 
 1. Install Ollama:
+   ```bash
    curl -fsSL https://ollama.ai/install.sh | sh
-2. Pull the GPT-OSS model:
+   ```
+3. Pull the GPT-OSS model:
+   ```bash
    ollama pull gpt-oss-20b
-3. Run the model:
+   ```
+5. Run the model:
+   ```bash
    ollama run gpt-oss-20b
+   ```
 
 ## ⚡ Using GPT-OSS with C#
 Here’s a minimal C# console app to interact with GPT-OSS via Ollama:
